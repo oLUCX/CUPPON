@@ -1,0 +1,65 @@
+.navbar{
+    background-color: #28a745;
+}
+.logo{
+    height: 30px;
+}
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+.form{
+    background-color: #28a745;
+    
+}
+.form p{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.card-title{ 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #212529;
+}
+.card-body {
+line-height: 15px; 
+}
+.precio{
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+span{
+    font-size: 1.30em;
+    color: #28a745;
+    font-weight: 500;
+}   
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 12pt;
+    color: #707070;
+    margin: 0px;
+}
+.ubi{
+    font-size: 11pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    margin: 0px;
+}
+.footer{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+}
+.logo-black{
+    height: 24px;
+}
